@@ -42,7 +42,7 @@ namespace Tarea
                         break;
 
                 }
-            } while (opcion!=4);
+            } while (opcion != 4);
 
             Console.ReadLine();
         }
